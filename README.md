@@ -11,3 +11,7 @@
 - محتوای آموزشی ۳۰ اسلایدی
 
 نسخه آنلاین از طریق GitHub Pages در دسترس است.
+
+## مشاهده آنلاین
+
+[اجرای زنده ارائه](https://pishgard.github.io/vibe-coding-session-1/)
